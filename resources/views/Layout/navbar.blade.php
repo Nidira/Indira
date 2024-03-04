@@ -4,9 +4,7 @@
 
         <img src="/assets/logoo.png" class="h-8 hidden w-full md:flex md:w-auto " alt="Gallery Photo" />
         <h3 class="text-[15px] text-black lg:hidden font-pacifico">Gallery Photo</h3>
-        <form action="/explore" method="get">
-        <input type="text" class="px-4 py-1 rounded-full text-left" placeholder ="Search...." name="cari">
-    </form>
+
         <!--Profil-->
         <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
             <button type="button"
